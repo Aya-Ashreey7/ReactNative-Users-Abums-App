@@ -4,3 +4,8 @@
   - npx expo install react-dom react-native-web @expo/metro-runtime
   - npx expo start --web
 
+ ![Image Alt](image_url)
+ ![Image Alt](image_url)
+ ![Image Alt](image_url)
+ ![Image Alt](image_url)
+ 
